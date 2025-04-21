@@ -1,15 +1,18 @@
 # Manus-AI-Prompts
-Manus-AI-Prompts
 
-Prompt 1: I need you to be an expert at SEO. Please analyze this website and offer SEO recommendations: https://www.mubashirhassan.com
+## Prompt 1: 
+I need you to be an expert at SEO. Please analyze this website and offer SEO recommendations: https://www.mubashirhassan.com
 
-Prompt 2: Please go into my Google Drive and access the following: Best Investment for Doubling $250,000_TSLA, NVIDIA, or META_zip . It contains a bunch of investment analysis for how I can turn 250,000 into 500K and recommends which stock of the three (TSLA, NVIDIA, or META) I should purchase. Please give feedback on their findings and make the use case for or against what it found. I need you to be honest and rational.
+## Prompt 2: 
+Please go into my Google Drive and access the following: Best Investment for Doubling $250,000_TSLA, NVIDIA, or META_zip . It contains a bunch of investment analysis for how I can turn 250,000 into 500K and recommends which stock of the three (TSLA, NVIDIA, or META) I should purchase. Please give feedback on their findings and make the use case for or against what it found. I need you to be honest and rational.
 
-Prompt 3: I would like you to give me an in-depth course on how to practically use Manus AI for automating your work. Focus on real-world use cases and tools that are being deployed in the real world by early adopters, and focused on real problems that anyone might face. The course should be to the point, but in depth enough on the more complex parts for beginners to understand. Include examples, images, and quizzes to ensure my comprehension. Start with the outline that we can then feed into the next Manus chat so we don’t go over context windows.
+## Prompt 3: 
+I would like you to give me an in-depth course on how to practically use Manus AI for automating your work. Focus on real-world use cases and tools that are being deployed in the real world by early adopters, and focused on real problems that anyone might face. The course should be to the point, but in depth enough on the more complex parts for beginners to understand. Include examples, images, and quizzes to ensure my comprehension. Start with the outline that we can then feed into the next Manus chat so we don’t go over context windows.
 
-Prompt 4: I have 250.00 and I want to know where I should invest it to turn it into 500.00 as efficiently as possible. I am looking at putting it in TSLA stock, NVIDIA stock, or META stock—let me know which of these you think is the best and why.
+## Prompt 4: 
+I have 250.00 and I want to know where I should invest it to turn it into 500.00 as efficiently as possible. I am looking at putting it in TSLA stock, NVIDIA stock, or META stock—let me know which of these you think is the best and why.
 
-# Prompts 5: 
+## Prompts 5: 
 
 Okay I have created Blogging agent I want to automate my blogging, for this I am confused which niche should I select, I am more interested to go with spanish language or any other language other than in english to target micro audience for better growth as competition will be low on those languages. So for blogging I need 3 broad macro niches and then each niche I need you to find 3 super micro niche to start blogging, remember I am targeting off page SEO so the entire blog will be depend on the topic I choose, scrap competition and find out the website which has been built in last 3 months and by following these rules come up with plan
 
@@ -38,6 +41,59 @@ Okay I have created Blogging agent I want to automate my blogging, for this I am
 
 Follow strictly those rules and Do deep research
 
+## Prompt 6:
+
+Manus, I need a new website. I’ve got a very old one that I built when I was learning Hugo, the static site generator back in 2021 or so. I would like you to review what I have, but then probably just start from scratch. I’ll give you my GitHub repo where the Hugo project lives. And I do deploy via Netlify straight from the GitHub main branch. I’d like that to still be the case. I need a brand-new website that’s accurately reflecting what I currently do. I’ll give you my main three things: 2 newsletters and a YouTube channel. I have all the other normal social links that you can surely find yourself. Build a great, high-converting single-page home page for my website. Use the simplest possible tech. I don’t want to fool with npm etc. Just HTML, CSS, JavaScript if possible. I don’t think we need a static site generator anymore. You may use a CSS library like Tailwind. Just make it clean and minimal, but the design should be eye-catching. Don’t sleep on this. I don’t want it to look like every other Apple-esque site out there. Be clean, be cool, be consistent.
+Current live site: http://www.mubashirhassan.com/
+Current GitHub (if you need for reference but don’t use all the old posts, projects, etc.): https://github.com/sites/cctroll-theme
+Main newsletter: https://www.mubashirhassan.com
+LinkedIn: https://www.linkedin.com/in/mubashirhassan/
+
+
+## Prompt 7:
+Hello Manus, I want to create my own dropshipping business. I'm planning to use Shopify as my selling platform, and I need you to create a to-do list of everything required to get started. I have minimal experience, and I'm not sure what the best approach is. Please guide me through the process.
+
+Go to www.ZikAnalytics.com using the credentials I provided earlier. Using their latest product research tools, identify the top products I can sell in my dropshipping store. I want products with at least a 75% profit margin and high demand on social media. Also, use Zik Analytics to match the products you found with reliable suppliers from AliExpress.
+
+I've picked 5 products from the ones you found using Zik Analytics. I'm attaching the Google Docs file with my selected products. Now, I need you to:
+
+Use the email address I provided earlier to set up a Shopify store for me.
+Optimize the product pages to maximize conversions.
+Adjust all necessary Shopify settings to ensure the store is ready for sales—including applying for the best payment gateway.
+Design the dropshipping store in a user-friendly way to drive the highest conversion rate possible.
+And create a web search to check if more things are needed to have a fully maximized dropshipping store ready to generate sales.
+
+I'm sharing with you raw videos and images of the products I want to market across all the social media platforms that you have access to.
+
+Edit the videos from the raw materials I provide, post daily on each platform, and fit the video or image to the social media platform. Engage with people who comment and like the posts, and reshare the posts to increase community engagement.
+
+This is an ongoing task, not a one-time request. Also, notify me whenever you need more raw content from me.
+I previously shared access with you to my Facebook Ads account. Using the raw materials I provided, create engaging video and image ads.
+Set up targeting based on all the knowledge you have about my dropshipping store, including insights from active campaigns and online searches.
+My paid ads daily budget is $30, and you can increase it by up to 50% if the daily ROAS is above 3.5.
+Make sure to optimize each ad continuously to maintain at least a 3.5 ROAS, and everyday at 4 PM I want you to provide me with a detailed activity report. This is a daily task.
+
+For every order in my store, fulfill it to the customer's address.
+I'm sourcing all products from AliExpress, and you can find the product source links in this Google Drive file.
+Place the orders 5 hours after purchase.
+Notify me for approval if an order costs more than $100.
+Every day at 4 PM, send me a detailed report of all fulfilled orders.
+
+Integrate with my Klaviyo account, which I have already shared access to.
+Create a complete email sequence for abandoned cart recovery—including a discount code to encourage conversions.
+Set up an automated funnel for buyers who have already purchased from my store. This should include:
+Order confirmation emails with tracking updates
+A post-purchase follow-up to increase engagement
+A special offer: a 25% discount for buyers who share and tag an Instagram story or post featuring the product
+I also need you to verify that each customer has actually posted the story or post before sending them the coupon code.
+Additionally, write the email content for each step of the sequence, ensuring that the buyer’s name appears in every email.
+
+## Prompt 8: 
+Here's a YouTube video: https://www.youtube.com/watch?v=ugvHCXCOMm4
+Make it into 10-page slides with sleek design and relevant images. Help me quickly grasp the idea of this podcast.
+
+--------------------
+
 # Coding Porompts: 
 
 Prompt 1:
@@ -49,6 +105,34 @@ Create a fully interactive Apple Watch OS-style UI with smooth animations and se
 Prompt 3:
 Notion mail clone
 
+Prompt 4: 
+I want to build a CRM platform. I want to include a full-fledged authentication, and the two basic features that I want to incorporate for now are a task management option and a contact management feature.
+
+Prompt 5: 
+I am planning to build a full-fledged CRM platform. I will use AI to create the same. Could you tell me some basic and important features that I can start with for building the MVP? It doesn't have to be complex.
+
+Prompt 6: 
+I want to create a shopping list reminder app. I want you to give me a detailed prompt that I can use to generate the UI of the app with all the essential features. Make sure to include detailed design guidelines, layout with different sections, micro animations, etc.
+
+prompt 7:
+Create a portfolio website component that displays development projects with live demo links, GitHub repositories, and tech stack details. Include a dedicated skills section and a contact form for inquiries, ensuring a clean and user-friendly layout.
+
+Prompt 8: 
+Create a modern e-commerce product page for a premium watch, featuring a responsive image gallery, options for size and color variants, a reviews section with user ratings and comments, and a related products carousel for enhanced user engagement.
+
+Prompt 9: 
+a currency converter website where users can convert currencies and get real-time data. API key https://exchangeratesapi.io/
+
+Prompt 10:
+Design me a landing page for a tour and travel company.
+
+Prompt 11:
+Create a minimal Flutter app called "Heads or Tails" that simulates a coin toss with a single tap. The app should have a large button labeled "Flip Coin" , and when pressed, it randomly displays either "Heads" or "Tails" on the screen using Flutter’s Random class. Add a simple animation or emoji (😊, 😄, etc.) (optional) to make the flip visually engaging. The UI should be centered, clean, and mobile-friendly with only basic widgets like ElevatedButton, Text, and Column. All logic should be handled within a single main.dart file with no external packages or API calls. Keep everything offline and lightweight.
+
+Prompt 12: 
+Create a beginner-friendly and highly interactive "Prompt Engineering" course specifically designed for a 7th-grade student, and structure it into multiple HTML files based on individual modules. Each module should be an easy-to-understand HTML page with simple language, engaging storytelling, and real-world analogies. Use vibrant illustrations, infographics, and interactive elements like quizzes, drag-and-drop exercises, and AI chat simulations to enhance learning. Clearly define learning objectives at the start of each module, and end with a summary and quick revision points. Ensure a consistent layout and navigation bar across all HTML files for smooth movement between modules. The overall tone should be friendly, fun, and non-technical, making the course enjoyable and accessible even for a young learner with no prior knowledge of AI or coding.
+
+-----------------
 # 7 Prompts you can use to master any skills 👇 You can learn anything using ChatGPT, Claude and Deepseek
 
 1- 30-Day Mastery Plan for [Subject]
@@ -73,6 +157,7 @@ Prompt: Show me how to apply [skill] in everyday situations. Provide relatable s
 Prompt: List essential resources (books, articles, tools) for mastering [subject]. Give a brief description of each and how they contribute to my learning.
 
 -------------------------
+# Other AI Prompts:
 
 1. The Decision Matrix
 
@@ -133,3 +218,29 @@ Prompt
 Prompt
 
 "Help me apply scenario planning to [business/situation]. Develop 4 distinct future scenarios based on key uncertainties, describe each scenario in detail, identify early warning signals for each, and recommend robust strategies that would work across multiple scenarios."
+
+---------------
+## What is a web app
+(Example: Blog writer, Chatbot, Language tutor, Image compressor, Loan calculator app, etc.)
+App I created and the features in it.
+How you can access Hostinger Horizons for free with limited messages to create web apps and how you can get more messages by subscribing to the Horizons plan.
+How to create web apps and what kind of apps you can create with Hostinger Horizons.
+Ways to earn money by creating web apps to build passive income.
+How you can design the interface/look/design of your web app (colors, animations, layout, etc.).
+What you cannot do while creating web apps.
+What you can do in your web app.
+How many web apps you can create.
+Fixing errors (if any).
+How you can add this web app to your existing website.
+Integrations (payments, Google AdSense, Facebook Pixel, etc.).
+
+
+Prompt 1:
+Think carefully and only action the specific task I have given you with the most concise and elegant solution that changes as little code as possible.
+Now that you have the memory of all of our past chats, tell me something that roasts me deeply, but also give me one life-changing advice to live a better, more fulfilling life.
+
+Prompt 2:
+Please write me a webpage with a face comparison algorithm that compares whether 2 provided images with faces are the same using best algorithms. Please make the website more interesting, for example have a demo and memes, and make it more colourful.
+
+
+---
