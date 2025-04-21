@@ -48,3 +48,88 @@ Create a fully interactive Apple Watch OS-style UI with smooth animations and se
 
 Prompt 3:
 Notion mail clone
+
+# 7 Prompts you can use to master any skills 👇 You can learn anything using ChatGPT, Claude and Deepseek
+
+1- 30-Day Mastery Plan for [Subject]
+Prompt: Describe the key concepts of [subject] as if you’re an expert. Provide a simple 30-day plan with daily tasks and useful resources to help me master this subject.
+
+2- Custom Learning Journey
+Prompt: Create a personalized learning plan for [subject]. Outline daily activities, recommend top resources, and include practical exercises to enhance my skills.
+
+3- Critical Thinking Challenge
+Prompt: Challenge my reasoning skills in [subject] with tough questions. After each response, give feedback on my answers and suggest tips for improvement.
+
+4- Beginner's Overview of [Topic]
+Prompt: Provide a comprehensive introduction to [topic]. Explain its origins, evolution, key concepts, and real-world applications in an easy-to-understand manner.
+
+5- Socratic Dialogue on [Concept]
+Prompt: Guide me through a Socratic dialogue on [concept]. Ask insightful questions to uncover deeper meanings and challenge my assumptions step by step.
+
+6- Skill Application in Real Life
+Prompt: Show me how to apply [skill] in everyday situations. Provide relatable scenarios and examples to illustrate its practical use.
+
+7- Resource Compilation for Quick Learning
+Prompt: List essential resources (books, articles, tools) for mastering [subject]. Give a brief description of each and how they contribute to my learning.
+
+-------------------------
+
+1. The Decision Matrix
+
+Prompt
+
+"Create a decision matrix for [specific decision] with the following criteria: [list 3-5 criteria]. For each option [list options], assign a score from 1-10 and explain your reasoning. Then calculate the weighted total and recommend the best choice."
+
+2. The Competitive Analysis
+
+Prompt
+
+"Analyze [my product/service] against [3 competitors] using the following framework: unique value proposition, target audience, pricing strategy, marketing approach, and key differentiators. Conclude with 3 actionable strategies I can implement to gain a competitive advantage."
+
+3. The Mental Model
+
+Prompt
+
+"Explain how I can apply [specific mental model, e.g., 'first principles thinking'] to solve [specific problem]. Break down the approach step-by-step, provide an example, and suggest overcoming common obstacles when using this method."
+
+4. The Socratic Teaching
+
+Prompt
+
+"I want to understand [complex topic] deeply. Instead of explaining it directly, use the Socratic method to guide me through understanding it myself. Ask me thought-provoking questions, correct misconceptions, and gradually build my knowledge."
+
+5. The Feedback Optimization
+
+Prompt
+
+"I received this feedback: [paste feedback]. Help me interpret it objectively, identify the core issues, create an action plan to address each point, and suggest how to follow up to ensure I've properly addressed the concerns."
+
+6. The Perspective Expansion
+
+Prompt
+
+"I'm considering [decision/belief/opinion]. Generate 5 different perspectives on this issue from the viewpoints of: a critic, a supporter, a neutral expert, someone directly affected, and a future historian. Highlight the unique insights from each perspective."
+
+7. The Implementation Roadmap
+
+Prompt
+
+"Create a 30-60-90 day implementation plan for [goal/project]. For each phase, list specific objectives, potential obstacles, required resources, success metrics, and critical dependencies. Format as a structured roadmap with milestones."
+
+8. The Assumption Testing
+
+Prompt
+
+"I believe [assumption]. Identify the key assumptions underlying this belief, rate each on a scale of 1-10 for how well-supported they are by evidence, suggest how I could test each assumption, and what alternative explanations might exist."
+
+9. The Cognitive Bias Check
+
+Prompt
+
+"Review my thinking on [decision/situation]: [explain your current thinking]. Identify potential cognitive biases that might be influencing my perspective, explain how each bias might be affecting me, and suggest debiasing strategies."
+
+10. The Strategic Foresight
+
+Prompt
+
+"Help me apply scenario planning to [business/situation]. Develop 4 distinct future scenarios based on key uncertainties, describe each scenario in detail, identify early warning signals for each, and recommend robust strategies that would work across multiple scenarios."
