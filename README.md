@@ -132,6 +132,12 @@ Create a minimal Flutter app called "Heads or Tails" that simulates a coin toss 
 Prompt 12: 
 Create a beginner-friendly and highly interactive "Prompt Engineering" course specifically designed for a 7th-grade student, and structure it into multiple HTML files based on individual modules. Each module should be an easy-to-understand HTML page with simple language, engaging storytelling, and real-world analogies. Use vibrant illustrations, infographics, and interactive elements like quizzes, drag-and-drop exercises, and AI chat simulations to enhance learning. Clearly define learning objectives at the start of each module, and end with a summary and quick revision points. Ensure a consistent layout and navigation bar across all HTML files for smooth movement between modules. The overall tone should be friendly, fun, and non-technical, making the course enjoyable and accessible even for a young learner with no prior knowledge of AI or coding.
 
+Prompt 13:
+I want to create a calorie tracking mobile app for iOS. Users are first onboarded by creating their health habits and goals for calorie tracking. Before they can proceed, they need to sign up with a paywall. To track their calories, users shall easily capture their meals by taking pictures of them. Then we will use Deepseek VI2 OCR VLM (Vision Language Model) to interpret the image and determine what food items, the amounts, etc. And from this, a Deepseek LLM model will determine the items and calories breakdown. Multiple items can be added for each meal, single items, and pictures of an entire composite meal. Then we will save these data for the user. It shall track all meals for the day, the calories and macronutrients per meal, keep track of remaining calories, etc. It shall in essence be a standard calorie tracking app, BUT with the much easier implementation for users by simply taking pictures of what they are eating, and let the AI behind the scenes do the rest. The UI for user onboarding and the main screens will be provided, so use those as a start for how it should look like.
+
+Prompt 14: 
+@Coding-Course-Dashboard.tsx I have created the frontend with ready and it gave me this file for the AI course website I had created. Now, I want you to make this app functional, connect to Supabase, and set up the database/auth system.
+
 -----------------
 # 7 Prompts you can use to master any skills 👇 You can learn anything using ChatGPT, Claude and Deepseek
 
@@ -244,3 +250,26 @@ Please write me a webpage with a face comparison algorithm that compares whether
 
 
 ---
+
+## SEO Related Promprs
+
+Prompt-1:
+High-Volume, Low-Difficulty Keywords for E-Commerce:
+"Identify the top e-commerce keywords related to [industry] that will drive the most relevant traffic to our website [Website] and increase search engine visibility. Gather data on search volume, competition, and related keywords. The keywords should be relevant to our target audience and align with our content marketing strategy."
+
+Prompt-2:
+Long-Tail Keywords for Content Marketing:
+"Suppose you're an SEO lead; suggest some high-volume, low-difficulty keywords for [topic of interest]."
+
+Prompt-3:
+Keyword Research for [Topic]:
+"Provide me with long-tail, high-volume, low-difficulty keywords for [topic of interest] as if you're a content marketer."
+
+Prompt-4:
+SEO Keywords for a Blog Post Section:
+"Act like an SEO expert having accurate and detailed information about keywords and create a list of 5 SEO keywords related to the following blog post section [blog post section]."
+
+Prompt-5:
+Top 10 SEO Keyword Strategies for [Topic]:
+"Act as an SEO manager and research the top 10 SEO keyword strategies for [topic]. Organize the search intention (commercial, transactional, or informational) for the listed keywords in a table format:..."
+
