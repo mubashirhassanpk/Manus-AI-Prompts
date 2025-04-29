@@ -92,6 +92,34 @@ Additionally, write the email content for each step of the sequence, ensuring th
 Here's a YouTube video: https://www.youtube.com/watch?v=ugvHCXCOMm4
 Make it into 10-page slides with sleek design and relevant images. Help me quickly grasp the idea of this podcast.
 
+## Prompt 9:
+Okay I have created Blogging agent I want to automate my blogging, for this I am confused which niche should I select, I am more interested to go with spanish language or any other language other than in english to target micro audience for better growth as competition will be low on those languages. So for blogging I need 3 broad macro niches and then each niche I need you to find 3 super micro niche to start blogging, remember I am targeting off page SEO so the entire blog will be depend on the topic I choose, scrap competition and find out the website which has been built in last 3 months and by following these rules come up with plan
+
+1. I need you to find 3 macro niche specifically targeting Man or Women or informational
+2. Under each niche I want you to give me 3 micro niches
+
+3. Remember the micro niche should be high volume and very low competition, the keyword search should be more than 100K+ in a month and competition level should be almost zero
+
+4. I am not interested in English websites so find keywords in other language but translate it for me in english
+
+5. Scrap web deeply and find out what website blog has been built on that micro niche which is getting quite high views like more than 100K+ per month
+
+6. Remember that blog or website do not has more than 50 articles and not older than 3 months or if you find good blog that crossing this bracket yes you can
+
+7. If it is tool website that would be plus
+
+8. I need action Plan for those micro niches, which blog should I write, the title, the no of keywords, I will be using totally AI to write those blogs
+
+9. Also suggest some SEO tips to improve my website
+
+10. Niches should not be on trending topics like summer outfits, or makeup or any thing which work on trend
+
+11. I need all data in english, only the keywords in spanish with table showing the volume and Opportunity score
+
+12. Give me the list of at least 20 Keywords in micro niches to target
+
+Follow strictly those rules and Do deep research
+
 --------------------
 
 # Coding Porompts: 
