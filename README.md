@@ -89,7 +89,7 @@ I also need you to verify that each customer has actually posted the story or po
 Additionally, write the email content for each step of the sequence, ensuring that the buyer’s name appears in every email.
 
 ## Prompt 8: 
-Here's a YouTube video: https://www.youtube.com/watch?v=ugvHCXCOMm4
+Here's a YouTube video: https://www.youtube.com/watch?v=08iWAbAhBv8&t=1140s
 Make it into 10-page slides with sleek design and relevant images. Help me quickly grasp the idea of this podcast.
 
 ## Prompt 9:
