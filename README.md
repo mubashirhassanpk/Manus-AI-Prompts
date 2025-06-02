@@ -92,6 +92,22 @@ Additionally, write the email content for each step of the sequence, ensuring th
 Here's a YouTube video: https://www.youtube.com/watch?v=08iWAbAhBv8&t=1140s
 Make it into 10-page slides with sleek design and relevant images. Help me quickly grasp the idea of this podcast.
 
+## Prompt 9:
+
+Survey Meta-Analysis [TOPIC]
+Prompt: Find and synthesize results from 3-5 recent public surveys about [TOPIC]. Identify consistent patterns and contradictions. Create a simple comparison chart showing the key findings from each source and what they collectively reveal about [TOPIC] trends.
+
+Focus ONLY on reputable recent resources (academic papers, statistics, case studies, research papers, etc.) that are recent [2025].
+
+Wrap everything up in a single colorful interactive HTML code that I can paste into WordPress.
+
+## Prompt 10:
+
+YouTube Expert Synthesis for [google ai overviews]
+Prompt: Analyze 5-7 popular YouTube videos where experts discuss [TOPIC]. Extract and compile the most valuable insights, strategies, and predictions mentioned across these videos. Create a consolidated guide of expert knowledge not typically found in written content.
+
+Create a simple comparison chart showing the key findings from each source and what they collectively reveal about [TOPIC] trends.
+
 --------------------
 
 # Coding Porompts: 
