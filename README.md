@@ -108,6 +108,18 @@ Prompt: Analyze 5-7 popular YouTube videos where experts discuss [TOPIC]. Extrac
 
 Create a simple comparison chart showing the key findings from each source and what they collectively reveal about [TOPIC] trends.
 
+## Prompt 11:
+
+Search for the top 6 latest trending news articles from the past 24 hours related to AI, chatGPT, OpenAI, and email them to me daily at 10am CST. Include the title of the article, a short 2-line description, and the actual website URL of the article.
+
+My email: imubashirhassan.com
+
+## Prompt 12:
+
+Get the latest 3 blog articles from this page and convert those blog articles to Facebook posts. Text: https://www.mubashirhassan.com/blog/
+
+
+
 --------------------
 
 # Coding Porompts: 
