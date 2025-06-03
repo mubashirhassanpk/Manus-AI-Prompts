@@ -142,6 +142,21 @@ Have density properties similar to water.
 Dynamically adapt to screen size changes.
 Display on a dark background.
 
+## Prompt 2:
+
+Write a HTML program that shows 20 balls bouncing inside a spinning heptagon:
+
+All balls have the same radius.
+All balls have a number on it from 1 to 20.
+All balls drop from the heptagon center when starting.
+Colors are: #f8b862, #f6ad49, #f38300, #f08300, #ec6d51, #ee7948, #ed6d3d, #ec5800, #ec6800, #ee7800, #eb6238, #ea5506, #ea5506, #eb6101, #e49e61, #e45e32, #e17b34, #dd7a56, #db8449, #d66a35.
+The balls should be affected by gravity and friction, and they must bounce off the rotating walls realistically. There should also be collisions between balls.
+The material of all the balls determines that their impact bounce height will not exceed the radius of the heptagon, but higher than ball radius.
+All balls rotate with friction, the numbers on the ball can be used to indicate the spin of the ball.
+The heptagon is spinning around its center, and the speed of spinning is 360 degrees per 5 seconds.
+The heptagon size should be large enough to contain all the balls.
+All codes should be put in a single HTML file.
+
 -------
 
 # Coding Porompts: 
