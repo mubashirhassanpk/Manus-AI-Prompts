@@ -130,6 +130,19 @@ Reference how your thinking on [YOUR TOPIC] has evolved.
 Include a specific example or case study that illustrates your point with human detail.
 
 --------------------
+# DeepSeek R1 Latest:
+
+## Prompt 1:
+Use p5.js to create an animation of falling letters with realistic physics. The letters should:
+
+Appear randomly at the top of the screen with varying sizes.
+Fall under Earth's gravity (9.8 m/s²).
+Have collision detection based on their actual letter shapes.
+Have density properties similar to water.
+Dynamically adapt to screen size changes.
+Display on a dark background.
+
+-------
 
 # Coding Porompts: 
 
