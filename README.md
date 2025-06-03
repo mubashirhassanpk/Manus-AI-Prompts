@@ -118,7 +118,9 @@ My email: imubashirhassan.com
 
 Get the latest 3 blog articles from this page and convert those blog articles to Facebook posts. Text: https://www.mubashirhassan.com/blog/
 
+## Prompt 13:
 
+I am a social media marketer. I publish content for several clients on platforms like Facebook, X, Instagram, LinkedIn, etc. Give me different ways I can use you (Agent NEO) to speed up my work. Yes, I am asking you for use cases for social media marketing.
 
 --------------------
 
