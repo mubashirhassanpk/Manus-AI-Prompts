@@ -124,7 +124,7 @@ I am a social media marketer. I publish content for several clients on platforms
 
 
 ## Prompt 14: 
-Write an essay on [can dogs eat bnanna] that demonstrates authentic human writing qualities. Follow these guidelines to produce a high-quality essay that naturally bypasses AI detection while maintaining academic excellence.
+Write an essay on [Can dogs eat longan?] that demonstrates authentic human writing qualities. Follow these guidelines to produce a high-quality essay that naturally bypasses AI detection while maintaining academic excellence.
 
 Reference how your thinking on [YOUR TOPIC] has evolved.
 Include a specific example or case study that illustrates your point with human detail.
